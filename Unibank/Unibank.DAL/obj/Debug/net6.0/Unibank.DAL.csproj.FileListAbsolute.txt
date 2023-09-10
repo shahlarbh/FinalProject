@@ -1,0 +1,12 @@
+D:\ASP.NET\Unibank\Unibank.DAL\bin\Debug\net6.0\Unibank.DAL.deps.json
+D:\ASP.NET\Unibank\Unibank.DAL\bin\Debug\net6.0\Unibank.DAL.dll
+D:\ASP.NET\Unibank\Unibank.DAL\bin\Debug\net6.0\Unibank.DAL.pdb
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\Unibank.DAL.csproj.AssemblyReference.cache
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\Unibank.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\Unibank.DAL.AssemblyInfoInputs.cache
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\Unibank.DAL.AssemblyInfo.cs
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\Unibank.DAL.csproj.CoreCompileInputs.cache
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\Unibank.DAL.dll
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\refint\Unibank.DAL.dll
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\Unibank.DAL.pdb
+D:\ASP.NET\Unibank\Unibank.DAL\obj\Debug\net6.0\ref\Unibank.DAL.dll
